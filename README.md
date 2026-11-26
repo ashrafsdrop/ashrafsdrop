@@ -12,4 +12,4 @@ Systems and low-level programmer tinkering with emulators, GPU runtimes, and mem
 Rust · C++ · DirectX 12 · x86-64 / RDNA2 · HLSL · Git
 
 ---
-Find me at: \waker11752@gmail.com
+Find me at: `waker11752@gmail.com`
